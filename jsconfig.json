@@ -1,4 +1,5 @@
 {
+  "useEslint": false,
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
